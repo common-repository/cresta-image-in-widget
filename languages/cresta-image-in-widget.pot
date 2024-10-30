@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cresta Image In Widget\n"
+"POT-Creation-Date: 2016-12-27 13:14+0100\n"
+"PO-Revision-Date: 2016-12-27 13:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cresta-image-in-widget.php:16
+msgid "Simple plugin to show an image in a widget with text and link"
+msgstr ""
+
+#: cresta-image-in-widget.php:18 cresta-image-in-widget.php:26
+#: cresta-image-in-widget.php:87
+msgid "Cresta Image In Widget"
+msgstr ""
+
+#: cresta-image-in-widget.php:22
+msgid "Select an Image"
+msgstr ""
+
+#: cresta-image-in-widget.php:22
+msgid "Use this Image"
+msgstr ""
+
+#: cresta-image-in-widget.php:87
+msgid "Image in Widget free WordPress plugin"
+msgstr ""
+
+#: cresta-image-in-widget.php:87
+msgid "by CrestaProject"
+msgstr ""
+
+#: cresta-image-in-widget.php:107
+msgid "Widget Title:"
+msgstr ""
+
+#: cresta-image-in-widget.php:111
+msgid "Show this widget on:"
+msgstr ""
+
+#: cresta-image-in-widget.php:113
+msgid "Entire website"
+msgstr ""
+
+#: cresta-image-in-widget.php:114
+msgid "Only front page"
+msgstr ""
+
+#: cresta-image-in-widget.php:115
+msgid "Only blog page"
+msgstr ""
+
+#: cresta-image-in-widget.php:116
+msgid "Only all posts"
+msgstr ""
+
+#: cresta-image-in-widget.php:117
+msgid "Only all pages"
+msgstr ""
+
+#: cresta-image-in-widget.php:118
+msgid "Only all posts and pages"
+msgstr ""
+
+#: cresta-image-in-widget.php:122
+msgid "Your Image:"
+msgstr ""
+
+#: cresta-image-in-widget.php:125 cresta-image-in-widget.php:127
+msgid "Uploaded image"
+msgstr ""
+
+#: cresta-image-in-widget.php:130
+msgid "Choose the image"
+msgstr ""
+
+#: cresta-image-in-widget.php:135
+msgid "Image border radius in px:"
+msgstr ""
+
+#: cresta-image-in-widget.php:139
+msgid "Image size:"
+msgstr ""
+
+#: cresta-image-in-widget.php:146
+msgid "full"
+msgstr ""
+
+#: cresta-image-in-widget.php:150
+msgid "Image Link:"
+msgstr ""
+
+#: cresta-image-in-widget.php:154
+msgid "Link ID:"
+msgstr ""
+
+#: cresta-image-in-widget.php:158
+msgid "Open link in:"
+msgstr ""
+
+#: cresta-image-in-widget.php:160
+msgid "Same Window"
+msgstr ""
+
+#: cresta-image-in-widget.php:161
+msgid "New Window"
+msgstr ""
+
+#: cresta-image-in-widget.php:165
+msgid "Text:"
+msgstr ""
+
+#: cresta-image-in-widget.php:170
+msgid "Show CrestaProject Credit at the bottom of the widget"
+msgstr ""
